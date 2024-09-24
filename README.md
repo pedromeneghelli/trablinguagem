@@ -28,3 +28,9 @@ Controle de fluxo: O controle do programa é feito através de um loop do-while 
 
 
 Uso de uma lista (ArrayList): O ArrayList é usado para armazenar os produtos dinamicamente.
+
+
+ No codigo PARouIMPAR  a função verificarParOuImpar é responsável por determinar se o número é par ou ímpar. O código segue o fluxo procedimental, com cada função representando uma etapa do processamento.
+
+
+ No codigo SOMAdeDOISNUMEROS o programa é focado em uma sequência de instruções dentro da função main que interage com o usuário. A função soma segue o modelo procedural, recebendo dois valores e retornando sua soma.
